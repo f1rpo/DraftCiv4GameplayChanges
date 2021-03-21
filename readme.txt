@@ -1,8 +1,9 @@
-Draft of balance/historicity changes for the AdvCiv mod. Dec2018
+Draft of balance and historicity changes for the AdvCiv mod of Civ 4 BtS.
+Unlikely to be implemented (parts of it, maybe).
 **************************************************************************
 
 tech-tree.pdf: The proposed tech tree
-stat-changes.pdf: All other stat changes (units, buildings ...)
+stat-changes.pdf: All other changes to game data (units, buildings ...)
 Rationales in footnotes
 
 Those specific changes should be accompanied by the following general rule changes not fully covered by the PDFs:
