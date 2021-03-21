@@ -18,7 +18,7 @@ https://github.com/f1rpo/AdvCiv/compare/master...f1rpo:defender-randomization
 * Limited free healing; when land units are badly damaged, some need to be disbanded in order to heal the others. Or some other cost on healing. Perhaps unlimited free healing for the AI, as a player handicap.
 See also: https://forums.civfanatics.com/threads/advanced-civ.614217/page-5#post-15157996
 
-2. Lower the production bonuses from traits and resources to 80%. Let production modifiers and special commerce modifiers apply to Processes (Wealth, Research, Culture), but halve both modifiers. Reduce the production-to-commerce conversion rate of Processes to 80%.
+2. Lower the production bonuses from traits and resources to 80%. Let production modifiers and special commerce modifiers apply to Processes (Wealth, Research, Culture), but halve both modifiers. Reduce the production-to-commerce conversion rate of Processes to 80%. Or perhaps set the rate based on the difficulty level.
 
 3. Better scaling of Great Person effects (e.g. Discover ability, Trade Mission) with the game progress - currently too powerful in the early game and midgame. Revise the progression of birth thresholds. Settled Great People grant a free building (e.g. a Bank from a Merchant), but have a limited lifetime. Hurry-wonder mission for Great Prophet (religious wonders).
 
